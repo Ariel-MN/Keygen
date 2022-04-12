@@ -1,0 +1,8 @@
+# Ignore generated link
+*.lnk
+
+# Ignore uncompressed folder
+etc/gui/delphi-gui-proj/
+
+# Ignore python folders
+__pycache__
